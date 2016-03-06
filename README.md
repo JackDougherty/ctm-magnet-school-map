@@ -2,7 +2,7 @@
 Leaflet tabbed point map with circle sizes: Magnet school enrollment in Hartford region since 1990 by school and race, by Elaina Rollins/CT Mirror
 
 ## Demo on GitHub Pages
-http://jackdougherty.github.io/ctm-magnet-school-ma
+http://jackdougherty.github.io/ctm-magnet-school-map
 
 ## See original
 http://projects.ctmirror.org/content/2014/06/magnetSchoolMap/
